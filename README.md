@@ -2,8 +2,7 @@
 
 The data download from: https://github.com/IMCMDAsourcecode/IMCMDA
 
-
-Inferring disease-related microRNAs via BIRWMDA
+# Inferring disease-related microRNAs via BIRWMDA
 
 ## How to use the tool?
 
