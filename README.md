@@ -1,7 +1,7 @@
 # Fusing multiple biological networks to effectively predict miRNA-disease associations
-————————————————————————————————————————————————————————————————————————————————————————————
+
 The data download from: https://github.com/IMCMDAsourcecode/IMCMDA
-————————————————————————————————————————————————————————————————————————————————————————————
+
 
 Inferring disease-related microRNAs via BIRWMDA
 
