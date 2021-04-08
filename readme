@@ -5,7 +5,7 @@ The data download from: https://github.com/IMCMDAsourcecode/IMCMDA
 
 Inferring disease-related microRNAs via BIRWMDA
 
-How to use the tool?
+## How to use the tool?
 
 Just run 'BIRWMDA_predict.m' to produce the result.
 
@@ -23,7 +23,7 @@ disease name.xlsx : ID of all diseases
 
 miRNA name.xlsx : ID of all microRNAs
 
-Program：
+## Program：
 
 BIRWMDA_predict.m：main interface for running the program
 
@@ -37,7 +37,7 @@ Rank.m：sorting disease-related microRNAs scores
 
 Write_file.m：write results to excel
 
-Operating environment：
+## Operating environment：
 
 software：matlab 2016a or later
 
