@@ -43,3 +43,24 @@ software：matlab 2016a or later
 processor：Intel(R) Xeon(R) CPU E5-1630 v4 @3.70GHz
 
 recommended memory：8G
+
+## Citation：
+
+If you use the code of this project, please cite our paper.  
+
+Source of the paper: https://www.eurekaselect.com/183785/article  
+
+@article{2020Fusing,
+  title={Fusing multiple biological networks to effectively predict miRNA-disease associations},  
+  author={Qingqi Zhu, Yongxian Fan and Xiaoyong Pan},  
+  journal={Current Bioinformatics},
+  volume={16},
+  page={371-384},  
+  year={2021},
+  doi={10.2174/1574893615999200715165335}  
+}
+
+
+## Contacts：
+
+If you have any questions or comments, please feel free to email augustqq@163.com
